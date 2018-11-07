@@ -1,2 +1,19 @@
-# Final_RFT_Banco_PW
-Final Programacion Web. Samuel pastrana, Xiomara Urrea, Moises Caballero, Anngi Alvarado
+## rfp_banco_electron
+Final PW
+
+## Install
+```
+npm i
+```
+## Start Server
+```
+npm run server 
+```
+## Build Webpack
+```
+npm run build
+```
+## Start Project
+```
+npm run electron
+```
